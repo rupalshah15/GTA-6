@@ -1,0 +1,40 @@
+
+<html>
+<head>
+  <title>GTA VI</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="logo">GTA VI</div>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Story</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1>Grand Theft Auto VI</h1>
+    <p class="tagline">Welcome to Vice City... again.</p>
+  </header>
+
+  <section class="content">
+    <h2>What We Know So Far</h2>
+    <p>
+      GTA VI is Rockstar's most anticipated title, rumored to be set in a modern-day Vice City.
+      The game is expected to have dual protagonists, deeper AI systems, and a living, breathing world.
+    </p>
+    <img src="https://m.media-amazon.com/images/M/MV5BZGFkYzA1ZWYtZDI5My00MjVmLWJiYjYtZWYxODIxNDdjNjc0XkEyXkFqcGc@.jpg">
+  </section>
+
+  <section class="funfact">
+    <h3>Development Insight</h3>
+    <p class="handwriting">
+      Rockstar began working on GTA VI shortly after Red Dead Redemption 2. Leaks suggest it's their most ambitious open world yet.
+    </p>
+  </section>
+</body>
+</html>
+
